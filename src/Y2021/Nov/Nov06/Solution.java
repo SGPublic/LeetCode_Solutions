@@ -1,4 +1,4 @@
-package Y2021.Nov.Nov6;
+package Y2021.Nov.Nov06;
 
 class Solution {
     public int missingNumber(int[] nums) {

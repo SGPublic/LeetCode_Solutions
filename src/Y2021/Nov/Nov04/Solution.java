@@ -1,4 +1,4 @@
-package Y2021.Nov.Nov4;
+package Y2021.Nov.Nov04;
 
 /**
  * 二分法求解即可

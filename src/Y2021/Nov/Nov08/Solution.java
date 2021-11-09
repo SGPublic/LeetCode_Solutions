@@ -1,4 +1,4 @@
-package Y2021.Nov.Nov8;
+package Y2021.Nov.Nov08;
 
 class Solution {
     public String getHint(String secret, String guess) {

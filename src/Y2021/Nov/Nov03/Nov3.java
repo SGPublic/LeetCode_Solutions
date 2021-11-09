@@ -1,4 +1,4 @@
-package Y2021.Nov.Nov3;
+package Y2021.Nov.Nov03;
 
 public class Nov3 {
     private static final int[][] s1 = new int[][] {

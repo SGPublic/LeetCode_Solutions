@@ -1,4 +1,4 @@
-package Y2021.Nov.Nov6;
+package Y2021.Nov.Nov06;
 
 import util.PrintUtil;
 
