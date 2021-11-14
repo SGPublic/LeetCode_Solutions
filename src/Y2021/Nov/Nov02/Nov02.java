@@ -4,7 +4,7 @@ import util.PrintUtil;
 
 import java.util.Arrays;
 
-public class Nov2 {
+public class Nov02 {
     private static final ListNode s1 = createNode(new int[]{ 4, 5, 1, 9 });
     private static final ListNode s2 = createNode(new int[]{ 4, 5, 1, 9 });
     private static final ListNode s3 = createNode(new int[]{ 1, 2, 3, 4 });
@@ -12,11 +12,11 @@ public class Nov2 {
     private static final ListNode s5 = createNode(new int[]{ -3, 5, -99 });
 
     public static void main(String[] args) {
-        Nov2.deleteNode(s1, 5);
-        Nov2.deleteNode(s2, 1);
-        Nov2.deleteNode(s3, 3);
-        Nov2.deleteNode(s4, 0);
-        Nov2.deleteNode(s5, -3);
+        Nov02.deleteNode(s1, 5);
+        Nov02.deleteNode(s2, 1);
+        Nov02.deleteNode(s3, 3);
+        Nov02.deleteNode(s4, 0);
+        Nov02.deleteNode(s5, -3);
     }
 
     private static void deleteNode(ListNode node, int index) {

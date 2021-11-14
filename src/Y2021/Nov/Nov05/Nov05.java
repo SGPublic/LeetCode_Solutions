@@ -2,7 +2,7 @@ package Y2021.Nov.Nov05;
 
 import util.PrintUtil;
 
-public class Nov5 {
+public class Nov05 {
     private static final int[] s1 = new int[] { 1, 2, 3, 4 };
     private static final int[] s2 = new int[] { 1, 3, 5, 7 };
     private static final int[] s3 = new int[] { 1, 5, 7, 8, 5, 3, 4, 2, 1 };

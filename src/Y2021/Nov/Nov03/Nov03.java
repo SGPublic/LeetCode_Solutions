@@ -1,6 +1,6 @@
 package Y2021.Nov.Nov03;
 
-public class Nov3 {
+public class Nov03 {
     private static final int[][] s1 = new int[][] {
             new int[] { 3, 3, 3, 3, 3 },
             new int[] { 3, 2, 2, 2, 3 },

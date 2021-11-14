@@ -2,7 +2,7 @@ package Y2021.Nov.Nov08;
 
 import util.PrintUtil;
 
-public class Nov8 {
+public class Nov08 {
     private static final String s1_s = "1807";
     private static final String s1_g = "7810";
 
