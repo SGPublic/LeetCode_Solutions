@@ -66,4 +66,8 @@ public class PrintUtil {
     public static <T> void println(T object) {
         System.out.println(object.toString());
     }
+
+    public static void println() {
+        System.out.println();
+    }
 }
