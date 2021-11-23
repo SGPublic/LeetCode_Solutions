@@ -24,14 +24,49 @@ class Solution {
     }
 
     private int find(char c) {
-        return switch (c) {
-            case 'Q', 'q', 'W', 'w', 'E', 'e', 'R',
-                    'r', 'T', 't', 'Y', 'y', 'U', 'u',
-                    'I', 'i', 'O', 'o', 'P', 'p' -> 1;
-            case 'A', 'a', 'S', 's', 'D', 'd', 'F',
-                    'f', 'G', 'g', 'H', 'h', 'J',
-                    'j', 'K', 'k', 'L', 'l' -> 2;
-            default -> 3;
-        };
+        switch (c) {
+            case 'Q':
+            case 'q':
+            case 'W':
+            case 'w':
+            case 'E':
+            case 'e':
+            case 'R':
+            case 'r':
+            case 'T':
+            case 't':
+            case 'Y':
+            case 'y':
+            case 'U':
+            case 'u':
+            case 'I':
+            case 'i':
+            case 'O':
+            case 'o':
+            case 'P':
+            case 'p':
+                return 1;
+            case 'A':
+            case 'a':
+            case 'S':
+            case 's':
+            case 'D':
+            case 'd':
+            case 'F':
+            case 'f':
+            case 'G':
+            case 'g':
+            case 'H':
+            case 'h':
+            case 'J':
+            case 'j':
+            case 'K':
+            case 'k':
+            case 'L':
+            case 'l':
+                return 2;
+            default:
+                return 3;
+        }
     }
 }
