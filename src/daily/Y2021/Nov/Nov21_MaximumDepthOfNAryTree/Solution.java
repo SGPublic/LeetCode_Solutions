@@ -19,6 +19,8 @@ class Node {
 };
 */
 
+import util.Node;
+
 import java.util.LinkedList;
 import java.util.Queue;
 

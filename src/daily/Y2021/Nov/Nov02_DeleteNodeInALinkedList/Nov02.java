@@ -1,5 +1,6 @@
 package daily.Y2021.Nov.Nov02_DeleteNodeInALinkedList;
 
+import util.ListNode;
 import util.PrintUtil;
 
 import java.util.Arrays;

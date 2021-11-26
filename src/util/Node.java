@@ -1,9 +1,12 @@
-package daily.Y2021.Nov.Nov21_MaximumDepthOfNAryTree;
+package util;
 
 import java.util.ArrayList;
 import java.util.List;
 
-class Node {
+/**
+ * 树结构
+ */
+public class Node {
     public int val;
     public List<Node> children = new ArrayList<>();
 
