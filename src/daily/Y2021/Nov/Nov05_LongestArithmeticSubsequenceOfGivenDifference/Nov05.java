@@ -1,14 +1,16 @@
 package daily.Y2021.Nov.Nov05_LongestArithmeticSubsequenceOfGivenDifference;
 
+import util.ArrayFactory;
 import util.PrintUtil;
 
 public class Nov05 {
-    private static final int[] s1 = new int[] { 1, 2, 3, 4 };
-    private static final int[] s2 = new int[] { 1, 3, 5, 7 };
-    private static final int[] s3 = new int[] { 1, 5, 7, 8, 5, 3, 4, 2, 1 };
-    private static final int[] s4 = new int[] {
-            7, -2, 8, 10, 6, 18, 9, -8, -5, 18, 13, -6, -17, -1, -6, -9, 9, 9
-    };
+    private static final int[] s1 = ArrayFactory.make(1, 2, 3, 4);
+    private static final int[] s2 = ArrayFactory.make(1, 3, 5, 7);
+    private static final int[] s3 = ArrayFactory.make(1, 5, 7, 8, 5, 3, 4, 2, 1);
+    private static final int[] s4 = ArrayFactory.make(
+            7, -2, 8, 10, 6, 18, 9, -8, -5,
+            18, 13, -6, -17, -1, -6, -9, 9, 9
+    );
 
     public static void main(String[] args) {
         Solution solution = new Solution();

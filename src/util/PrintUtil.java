@@ -33,6 +33,12 @@ public class PrintUtil {
         }
     }
 
+    public static void println(char[][] arrays) {
+        for (char[] array : arrays) {
+            System.out.println(Arrays.toString(array));
+        }
+    }
+
     public static void println(byte[][] arrays) {
         for (byte[] array : arrays) {
             System.out.println(Arrays.toString(array));
@@ -56,6 +62,10 @@ public class PrintUtil {
     }
 
     public static void println(double[] array) {
+        System.out.println(Arrays.toString(array));
+    }
+
+    public static void println(char[] array) {
         System.out.println(Arrays.toString(array));
     }
 
