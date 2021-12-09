@@ -8,7 +8,7 @@
 
 **示例 1：**
 
-![img](https://assets.leetcode.com/uploads/2020/09/01/node1.jpg)
+![img](assets/node1.jpg)
 
 ```
 输入：head = [4,5,1,9], node = 5
@@ -18,7 +18,7 @@
 
 **示例 2：**
 
-![img](https://assets.leetcode.com/uploads/2020/09/01/node2.jpg)
+![img](assets/node2.jpg)
 
 ```
 输入：head = [4,5,1,9], node = 1

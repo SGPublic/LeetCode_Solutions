@@ -14,7 +14,7 @@
 
 **示例 1：**
 
-![img](https://assets.leetcode.com/uploads/2020/09/10/graph.png)
+![img](assets/graph.png)
 
 ```
 输入：n = 10

@@ -10,7 +10,7 @@
 
 **示例 1：**
 
-![img](https://assets.leetcode.com/uploads/2020/11/05/bulb.jpg)
+![img](assets/bulb.jpg)
 
 ```
 输入：n = 3

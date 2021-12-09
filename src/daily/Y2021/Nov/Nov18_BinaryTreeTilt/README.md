@@ -10,7 +10,7 @@
 
 **示例 1：**
 
-![img](https://assets.leetcode.com/uploads/2020/10/20/tilt1.jpg)
+![img](assets/tilt1.jpg)
 
 ```
 输入：root = [1,2,3]
@@ -24,7 +24,7 @@
 
 **示例 2：**
 
-![img](https://assets.leetcode.com/uploads/2020/10/20/tilt2.jpg)
+![img](assets/tilt2.jpg)
 
 ```
 输入：root = [4,2,9,3,5,null,7]
@@ -41,7 +41,7 @@
 
 **示例 3：**
 
-![img](https://assets.leetcode.com/uploads/2020/10/20/tilt3.jpg)
+![img](assets/tilt3.jpg)
 
 ```
 输入：root = [21,7,14,1,1,2,2,3,3]

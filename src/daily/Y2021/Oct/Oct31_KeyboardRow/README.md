@@ -8,7 +8,7 @@
 - 第二行由字符 `"asdfghjkl"` 组成。
 - 第三行由字符 `"zxcvbnm"` 组成。
 
-![American keyboard](https://assets.leetcode-cn.com/aliyun-lc-upload/uploads/2018/10/12/keyboard.png)
+![American keyboard](assets/keyboard.png)
 
  
 

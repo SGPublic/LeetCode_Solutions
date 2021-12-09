@@ -6,7 +6,7 @@
 
 **示例 1：**
 
-![img](https://assets.leetcode.com/uploads/2021/03/27/perectrec1-plane.jpg)
+![img](assets/perectrec1-plane.jpg)
 
 ```
 输入：rectangles = [[1,1,3,3],[3,1,4,2],[3,2,4,4],[1,3,2,4],[2,3,3,4]]
@@ -16,7 +16,7 @@
 
 **示例 2：**
 
-![img](https://assets.leetcode.com/uploads/2021/03/27/perfectrec2-plane.jpg)
+![img](assets/perfectrec2-plane.jpg)
 
 ```
 输入：rectangles = [[1,1,2,3],[1,3,2,4],[3,1,4,2],[3,2,4,4]]
@@ -26,7 +26,7 @@
 
 **示例 3：**
 
-![img](https://assets.leetcode.com/uploads/2021/03/27/perfectrec3-plane.jpg)
+![img](assets/perfectrec3-plane.jpg)
 
 ```
 输入：rectangles = [[1,1,3,3],[3,1,4,2],[1,3,2,4],[3,2,4,4]]
@@ -36,7 +36,7 @@
 
 **示例 4：**
 
-![img](https://assets.leetcode.com/uploads/2021/03/27/perfecrrec4-plane.jpg)
+![img](assets/perfecrrec4-plane.jpg)
 
 ```
 输入：rectangles = [[1,1,3,3],[3,1,4,2],[1,3,2,4],[2,2,4,4]]

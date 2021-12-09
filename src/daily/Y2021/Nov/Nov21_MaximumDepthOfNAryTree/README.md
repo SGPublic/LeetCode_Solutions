@@ -8,7 +8,7 @@ N 叉树输入按层序遍历序列化表示，每组子节点由空值分隔（
 
 **示例 1：**
 
-![img](https://assets.leetcode.com/uploads/2018/10/12/narytreeexample.png)
+![img](assets/narytreeexample.png)
 
 ```
 输入：root = [1,null,3,2,4,null,5,6]
@@ -17,7 +17,7 @@ N 叉树输入按层序遍历序列化表示，每组子节点由空值分隔（
 
 **示例 2：**
 
-![img](https://assets.leetcode.com/uploads/2019/11/08/sample_4_964.png)
+![img](assets/sample_4_964.png)
 
 ```
 输入：root = [1,null,2,3,4,5,null,null,6,7,null,8,null,9,10,null,null,11,null,12,null,13,null,null,14]
