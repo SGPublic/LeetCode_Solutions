@@ -1,5 +1,7 @@
 package hot100.No002_AddTwoNumbers;
 
+import util.ListNode;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
